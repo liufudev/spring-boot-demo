@@ -1,0 +1,8 @@
+server:
+  port: 9090
+dog:
+  age: 100
+  name: go
+logging:
+  level:
+    root: debug

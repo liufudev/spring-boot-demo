@@ -1,0 +1,17 @@
+{
+  "hints": [
+    {
+      "name": "dog.age",
+      "values": [
+        {
+          "value": "100",
+          "description": "default value 100."
+        },
+        {
+          "value": "100",
+          "description": "Validate the schema, make no changes to the database."
+        }
+      ]
+    }
+  ]
+}
